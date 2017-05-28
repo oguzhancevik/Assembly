@@ -22,7 +22,7 @@ start:
     ;rep cx kaydedicisinin degerini bir azaltir demistik
     ;repe fonksiyonu ise esitse bir azalt demektir.
     ;repne esit degilse azalt fonksiyonudur.
-    ;cmsb ise stringleri byte seklinde karsilastirir
+    ;cmpsb ise stringleri byte seklinde karsilastirir
     ;je kosul ifadesi esitse anlami tasir
     ;jmp sartsiz dallanma komutumuz
     
